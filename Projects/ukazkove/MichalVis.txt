@@ -1,0 +1,8 @@
+163262
+c:\program files\wago software\codesys v2.3\compile\michalvis.txt
+c:\program files\wago software\codesys v2.3\compile\visu_ini.xml
+c:\program files\wago software\codesys v2.3\compile\alm_ini.xml
+c:\program files\wago software\codesys v2.3\visu\minml.jar
+c:\program files\wago software\codesys v2.3\visu\webvisu.jar
+c:\program files\wago software\codesys v2.3\visu\webvisu.htm
+c:\program files\wago software\codesys v2.3\compile\michalend.txt
